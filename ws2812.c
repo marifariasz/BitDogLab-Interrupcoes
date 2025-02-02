@@ -46,11 +46,11 @@ void configurar_matriz_leds() {
 void atualizar_matriz(int numero) {
     static const uint32_t padroes_numeros[10][NUM_LEDS] = {
         //0
-        {1,1,1,1,1, 
+        {0,1,1,1,0, 
          1,0,0,0,1, 
          1,0,0,0,1, 
          1,0,0,0,1, 
-         1,1,1,1,1},
+         0,1,1,1,0},
 
         //1
         {0,1,1,1,0, 
