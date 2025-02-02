@@ -26,6 +26,6 @@ Este projeto visa controlar uma matriz de LEDs WS2812 de 5x5 pixels utilizando u
 4️⃣ Implementação de **debounce** para os botões. ⏱️<br>
 
 ## 📹 Demonstração
-🔗 Assista ao vídeo da implementação: []()
+🔗 Assista ao vídeo da implementação: [Clique Aqui](https://youtube.com/shorts/XJlDlVULrFs?feature=share)
 
 ---
